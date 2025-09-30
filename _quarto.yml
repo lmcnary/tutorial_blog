@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Lindsay McNary - Tutorial Blog"
-  description: "A showcase of my data science projects and learning journey"
+  description: "Learning how to API"
   
   navbar:
     background: primary
