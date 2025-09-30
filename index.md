@@ -139,10 +139,10 @@ APIs are powerful tools that allow you to access and interact with data from all
 
 Now it's your turn!
 Your task is to:
-1. Create a new Python script
-2. Use the requests library to make a GET request to a public API of your choice (I challenge you to find one with nested data!)
-3. Try checking the status code of your request
-4. Print the JSON response to the console
-5. Inspect the data and try to access specific fields inside the JSON response.
+- Create a new Python script
+- Use the requests library to make a GET request to a public API of your choice (I challenge you to find one with nested data!)
+- Try checking the status code of your request
+-  Print the JSON response to the console
+- Inspect the data and try to access specific fields inside the JSON response.
 Experiment with different APIs and see what kinds of data you can work with.
 
