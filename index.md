@@ -3,7 +3,7 @@ title: "Getting Started With APIs in Python"
 ---
 
 # What is an API?
-
+![API request and response flow](https://media.geeksforgeeks.org/wp-content/uploads/20230216170349/What-is-an-API.png)
 An **API**, which stands for Application Programming Interface, is a set of rules that allows different software applications to communicate with each other. It's sort of like a messenger that takes your request, delivers it to another system, and brings back a response. Without APIs, a lot of what we do online would not be possible. For example:
 - The weather app on your phone fetches weather data from an API instead of measuring it itself.
 - Payment services like Paypal and Venmo use APIs so that online payments can be processed securely.
@@ -139,10 +139,10 @@ APIs are powerful tools that allow you to access and interact with data from all
 
 Now it's your turn!
 Your task is to:
-1. Create a new Python script
-2. Use the requests library to make a GET request to a public API of your choice (I challenge you to find one with nested data!)
-3. Try checking the status code of your request
-4. Print the JSON response to the console
-5. Inspect the data and try to access specific fields inside the JSON response.
+  1. Create a new Python script
+  2. Use the requests library to make a GET request to a public API of your choice (I challenge you to find one with nested data!)
+  3. Try checking the status code of your request
+  4. Print the JSON response to the console
+  5. Inspect the data and try to access specific fields inside the JSON response.
 Experiment with different APIs and see what kinds of data you can work with.
 
