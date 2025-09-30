@@ -3,7 +3,7 @@ title: "Getting Started With APIs in Python"
 ---
 
 # What is an API?
-
+![API request and response flow](https://media.geeksforgeeks.org/wp-content/uploads/20230216170349/What-is-an-API.png)
 An **API**, which stands for Application Programming Interface, is a set of rules that allows different software applications to communicate with each other. It's sort of like a messenger that takes your request, delivers it to another system, and brings back a response. Without APIs, a lot of what we do online would not be possible. For example:
 - The weather app on your phone fetches weather data from an API instead of measuring it itself.
 - Payment services like Paypal and Venmo use APIs so that online payments can be processed securely.
